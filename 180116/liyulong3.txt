@@ -1,0 +1,38 @@
+ 1197  ls -a
+ 1198  vim .vimrc 
+ 1199  find -amin 2
+ 1200  find +amin 2
+ 1201  find -amin -2
+ 1202  find -amin +2
+ 1203  find -cmin +2
+ 1204  clear
+ 1205  ls
+ 1206  cd linuxLearn/
+ 1207  ls
+ 1208  ls -l | grep ^d
+ 1209  cd 180116/
+ 1210  ls
+ 1211  ls -l | grep e$
+ 1212  ls -l | grep t$
+ 1213  ls -c | grep t$
+ 1214  tar cvf source.tar *
+ 1215  la
+ 1216  ls
+ 1217  ls -l
+ 1218  tar xvf source.tar 
+ 1219  ls -l
+ 1220  tar czvf source.tar.gz *
+ 1221  ls -l
+ 1222  history
+ 1223  history >liyulong2.txt
+ 1224  clear
+ 1225  ls
+ 1226  ls -l
+ 1227  gzip -v file1*
+ 1228  ls -l
+ 1229  gzip -dv file1.gz 
+ 1230  ls -l
+ 1231  bzip -v file1
+ 1232  bzip2 -v file1
+ 1233  ls -l
+ 1234  history >liyulong3.txt

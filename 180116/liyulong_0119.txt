@@ -1,0 +1,1000 @@
+  253  cd 270715/
+  254  vim log4ccp1.cc
+  255  g++ log4ccp1.cc -llog4cpp -lpthread
+  256  vim log4ccp1.cc
+  257  g++ log4ccp1.cc -llog4cpp -lpthread
+  258  vim log4ccp1.cc
+  259  g++ log4ccp1.cc -llog4cpp -lpthread
+  260  clear
+  261  ./a.out 
+  262  ll
+  263  ls
+  264  g++ log4ccp.cc -llog4cpp -lpthread
+  265  g++ log4cpp.cc -llog4cpp -lpthread
+  266  cp log4cpp.cpp log4cpp.cc
+  267  g++ log4cpp.cc -llog4cpp -lpthread
+  268  ./a.out 
+  269  l
+  270  g++ log4cpp.cpp -llog4cpp -lpthread
+  271  ./a.out 
+  272  clear
+  273  su root
+  274  pwd
+  275  su root
+  276  cd practice/270715/
+  277  ls
+  278  cd ~
+  279  cd homework/
+  280  ls
+  281  vim wordStatic.cc 
+  282  g++ wordStatic.cc 
+  283  vim wordStatic.cc 
+  284  clear
+  285  g++ wordStatic.cc 
+  286  ./a.out 
+  287  vim wordStatic.cc 
+  288  clear
+  289  g++ wordStatic.cc 
+  290  ./a.out 
+  291  clear
+  292  vim wordStatic.cc 
+  293  g++ wordStatic.cc 
+  294  ./a.out 
+  295  vim wordStatic.cc 
+  296  g++ wordStatic.cc 
+  297  ./a.out 
+  298  clear
+  299  vim wordStatic.cc 
+  300  g++ wordStatic.cc 
+  301  ./a.out 
+  302  clear
+  303  cd ~
+  304  cd practice/
+  305  mkdir 280715
+  306  cd 280715/
+  307  vim friendFunc.cc
+  308  g++ friendFunc.cc 
+  309  vim friendFunc.cc
+  310  g++ friendFunc.cc 
+  311  vim friendFunc.cc
+  312  g++ friendFunc.cc 
+  313  ./a.out 
+  314  vim friendFunc.cc
+  315  g++ friendFunc.cc 
+  316  ./a.out 
+  317  clear
+  318  cp friendFunc.cc friendFun2c.cc 
+  319  vim friendFun2c.cc 
+  320  g++ friendFun2c.cc 
+  321  vim friendFun2c.cc 
+  322  g++ friendFun2c.cc 
+  323  ./a.out 
+  324  cp friendFunc.cc friend_class.cc
+  325  vim friend_class.cc 
+  326  ls
+  327  vim complex1.cc
+  328  g++ complex1.cc 
+  329  vim complex1.cc
+  330  g++ complex1.cc 
+  331  vim complex1.cc
+  332  g++ complex1.cc 
+  333  clear
+  334  ./a.out 
+  335  cp complex1.cc complex2.cc 
+  336  vim complex2.cc 
+  337  g++ complex2.cc 
+  338  vim complex2.cc 
+  339  g++ complex2.cc 
+  340  ./a.out 
+  341  vim complex2.cc 
+  342  g++ complex2.cc 
+  343  vim complex2.cc 
+  344  g++ complex2.cc 
+  345  clear
+  346  ./a.out 
+  347  vim complex2.cc 
+  348  g++ complex2.cc 
+  349  vim complex2.cc 
+  350  g++ complex2.cc 
+  351  vim complex2.cc 
+  352  g++ complex2.cc 
+  353  vim complex2.cc 
+  354  g++ complex2.cc 
+  355  clear
+  356  ./a.out 
+  357  vim complex1.cc 
+  358  ls
+  359  cp complex2.cc fiend_complex.cc
+  360  vim fiend_complex.cc 
+  361  g++ fiend_complex.cc 
+  362  vim fiend_complex.cc 
+  363  g++ fiend_complex.cc 
+  364  vim fiend_complex.cc 
+  365  g++ fiend_complex.cc 
+  366  vim fiend_complex.cc 
+  367  g++ fiend_complex.cc 
+  368  clear
+  369  ./a.out 
+  370  ls
+  371  vim complex2.cc 
+  372  cp complex2.cc complex3.cc
+  373  vim complex3.cc 
+  374  g++ complex3.cc 
+  375  vim complex3.cc 
+  376  g++ complex3.cc 
+  377  ./a.out 
+  378  vim complex3.cc 
+  379  clear
+  380  ls
+  381  vim char_[].cc
+  382  cp complex1.cc operator_io.cc
+  383  vim operator_io.cc 
+  384  g++ operator_io.cc 
+  385  vim operator_io.cc 
+  386  g++ operator_io.cc 
+  387  ./a.out 
+  388  clear
+  389  ls
+  390  vim typecast.cc
+  391  g++ typecast.cc 
+  392  vim typecast.cc
+  393  g++ typecast.cc 
+  394  vim typecast.cc
+  395  g++ typecast.cc 
+  396  vim typecast.cc
+  397  g++ typecast.cc 
+  398  vim typecast.cc
+  399  g++ typecast.cc 
+  400  vim typecast.cc
+  401  g++ typecast.cc 
+  402  clear
+  403  ./a.out 
+  404  vim typecast.cc
+  405  g++ typecast.cc 
+  406  ./a.out 
+  407  vim typecast.cc 
+  408  g++ typecast.cc 
+  409  ./a.out 
+  410  vim typecast.cc 
+  411  g++ typecast.cc 
+  412  ./a.out 
+  413  cp typecast.cc typecast2.cc 
+  414  clear
+  415  vim typecast2.cc 
+  416  g++ typecast2.cc 
+  417  ./a.out 
+  418  vim typecast2.cc 
+  419  g++ typecast2.cc 
+  420  ./a.out 
+  421  vim typecast2.cc 
+  422  g++ typecast2.cc 
+  423  ./a.out 
+  424  clear
+  425  cd ~
+  426  cd homework/
+  427  ls
+  428  vim Date.cc 
+  429  cp Date.cc cDate.cc
+  430  vim cDate.cc 
+  431  g++ cDate.cc 
+  432  vim cDate.cc 
+  433  g++ cDate.cc 
+  434  clear
+  435  ./a.out 
+  436  vim cDate.cc 
+  437  g++ cDate.cc 
+  438  ./a.out 
+  439  vim cDate.cc 
+  440  ls
+  441  vim cDate.cc 
+  442  g++ cDate.cc 
+  443  ./a.out 
+  444  g++ Date.cc 
+  445  ./a.out 
+  446  vim cDate.cc 
+  447  g++ cDate.cc 
+  448  vim cDate.cc 
+  449  g++ cDate.cc 
+  450  vim cDate.cc 
+  451  g++ cDate.cc 
+  452  ./a.out 
+  453  vim Date.cc 
+  454  vim cDate.cc 
+  455  g++ cDate.cc 
+  456  ./a.out 
+  457  vim cDate.cc 
+  458  g++ cDate.cc 
+  459  ./a.out 
+  460  vim cDate.cc 
+  461  g++ cDate.cc 
+  462  ./a.out 
+  463  clear
+  464  vim cDate.cc 
+  465  g++ cDate.cc 
+  466  vim cDate.cc 
+  467  g++ cDate.cc 
+  468  ./a.out 
+  469  vim cDate.cc 
+  470  g++ cDate.cc 
+  471  ./a.out 
+  472  vim cDate.cc 
+  473  g++ cDate.cc 
+  474  vim cDate.cc 
+  475  g++ cDate.cc 
+  476  ./a.out 
+  477  vim cDate.cc 
+  478  g++ cDate.cc 
+  479  ./a.out 
+  480  vim cDate.cc 
+  481  g++ cDate.cc 
+  482  ./a.out 
+  483  vim cDate.cc 
+  484  g++ cDate.cc 
+  485  ./a.out 
+  486  vim cDate.cc 
+  487  g++ cDate.cc 
+  488  ./a.out 
+  489  g++ cDate.cc 
+  490  vim cDate.cc 
+  491  g++ cDate.cc 
+  492  ./a.out 
+  493  vim cDate.cc 
+  494  g++ cDate.cc 
+  495  ./a.out 
+  496  vim cDate.cc 
+  497  g++ cDate.cc 
+  498  ./a.out 
+  499  vim cDate.cc 
+  500  g++ cDate.cc 
+  501  ./a.out 
+  502  vim cDate.cc 
+  503  g++ cDate.cc 
+  504  ./a.out 
+  505  cd homework/
+  506  ls
+  507  vim Date2.cc 
+  508  g++ Date2.cc 
+  509  vim Date2.cc 
+  510  g++ Date2.cc 
+  511  ./a.out 
+  512  vim Date2.cc 
+  513  g++ Date2.cc 
+  514  vim Date2.cc 
+  515  g++ Date2.cc 
+  516  ./a.out 
+  517  clear
+  518  vim Date2
+  519  vim Date2.cc 
+  520  g++ Date2.cc 
+  521  ./a.out 
+  522  ls
+  523  vim Date2.cc 
+  524  cat result.txt 
+  525  clear
+  526  cat result.txt 
+  527  vim result.txt 
+  528  clear
+  529  ls
+  530  vim count.txt 
+  531  vim Date.cc 
+  532  vim wordStatic.cc 
+  533  g++ wordStatic.cc 
+  534  ./a.out 
+  535  vim wordStatic.cc 
+  536  vim count.txt 
+  537  clear
+  538  vim count.txt 
+  539  vim Date2.cc 
+  540  cd teach/28072015/
+  541  ls
+  542  vim nested.cc 
+  543  g++ nested.cc 
+  544  ./a.out 
+  545  ls
+  546  clear
+  547  cd ~
+  548  cd practice/
+  549  ls
+  550  cd 280715/
+  551  vim nested.h
+  552  cd ~
+  553  cd teach/28072015/
+  554  ls
+  555  vim nested2.cc 
+  556  cd ~
+  557  cd homework/
+  558  ls
+  559  vim Date2.cc
+  560  g++ Date2.cc 
+  561  vim Date2.cc
+  562  g++ Date2.cc 
+  563  ./a.out 
+  564  clear
+  565  ls
+  566  vim result.txt 
+  567  cat result.txt 
+  568  g++ Date2.cc 
+  569  ./a.out 
+  570  vim Date2.cc 
+  571  g++ Date2.cc 
+  572  ./a.out 
+  573  cat result.txt 
+  574  vim result.txt 
+  575  vim Date2.cc 
+  576  g++ Date2.cc 
+  577  ./a.out 
+  578  vim Date2.cc 
+  579  ifconfig
+  580  cd teach/05082015/
+  581  ls
+  582  vim derivedClass.cc 
+  583  mkdir homework
+  584  cd homework/
+  585  vim vim inheritance.cc
+  586  ls
+  587  vim inheritance.cc
+  588  g++ inheritance.cc 
+  589  vim inheritance.cc
+  590  g++ inheritance.cc 
+  591  ./a.out 
+  592  clear
+  593  vim inheritance2.cc 
+  594  cp inheritance.cc inheritance2.cc 
+  595  vim inheritance2.cc 
+  596  g++ inheritance2.cc 
+  597  ./a.out 
+  598  cp inheritance2.cc inheritance3.cc
+  599  vim inheritance3.cc 
+  600  g++ inheritance3.cc 
+  601  ./a.out 
+  602  cp inheritance3.cc inheritance4.cc
+  603  vim inheritance4.cc 
+  604  g++ inheritance4.cc 
+  605  ./a.out 
+  606  clear
+  607  vim callOrder.cc
+  608  g++ callOrder.cc 
+  609  vim callOrder.cc
+  610  g++ callOrder.cc 
+  611  ./a.out 
+  612  vim callOrder.cc
+  613  g++ callOrder.cc 
+  614  ./a.out 
+  615  cp callOrder.cc destructOrder.cc
+  616  vim destructOrder.cc 
+  617  g++ destructOrder.cc 
+  618  ./a.out 
+  619  clear
+  620  cd ..
+  621  ls
+  622  vim oversee.cc 
+  623  g++ oversee.cc 
+  624  ./a.out 
+  625  vim oversee.cc 
+  626  g++ oversee.cc 
+  627  ./a.out 
+  628  clear
+  629  ls
+  630  vim Point3D.cc 
+  631  cd homework/
+  632  vim point3D
+  633  ls
+  634  vim point3D.cc
+  635  g++ point3D.cc 
+  636  vim point3D.cc
+  637  g++ point3D.cc 
+  638  vim point3D.cc
+  639  g++ point3D.cc 
+  640  vim point3D.cc
+  641  g++ point3D.cc 
+  642  clear
+  643  ./a.out 
+  644  vim point3D.cc
+  645  g++ point3D.cc 
+  646  ./a.out 
+  647  vim point3D.cc
+  648  g++ point3D.cc 
+  649  vim point3D.cc
+  650  g++ point3D.cc 
+  651  ./a.out 
+  652  vim point3D.cc
+  653  g++ point3D.cc 
+  654  ./a.out 
+  655  vim point3D.cc
+  656  g++ point3D.cc 
+  657  vim point3D.cc
+  658  g++ point3D.cc 
+  659  ./a.out 
+  660  clear
+  661  cd ..
+  662  ls
+  663  vim SubClass.cc 
+  664  vim Derived.cc 
+  665  vim derived.cc
+  666  cd ..
+  667  ls
+  668  cd -
+  669  ls
+  670  vim Derived2.cc 
+  671  g++ Derived2.cc 
+  672  ./a.out 
+  673  vim Derived2.cc 
+  674  g++ Derived2.cc 
+  675  vim Derived2.cc 
+  676  g++ Derived2.cc 
+  677  clear
+  678  ./a.out 
+  679  g++ Derived2.cc 
+  680  vim Derived2.cc 
+  681  g++ Derived2.cc 
+  682  ./a.out 
+  683  vim Derived2.cc 
+  684  ls
+  685  cd practice/
+  686  ls
+  687  cd 050815/
+  688  ls
+  689  cd ~
+  690  cd teach/05082015/
+  691  ls
+  692  cd homework/
+  693  ls
+  694  clear
+  695  ls
+  696  vim inheritance2.cc 
+  697  g++ inheritance2.cc 
+  698  vim inheritance2.cc 
+  699  vim derived.cc 
+  700  clear
+  701  g++ derived.cc 
+  702  ./a.out 
+  703  vim derived.cc 
+  704  g++ derived.cc 
+  705  vim derived.cc 
+  706  g++ derived.cc 
+  707  vim derived.cc 
+  708  clear
+  709  g++ derived.cc 
+  710  vim derived.cc 
+  711  g++ derived.cc 
+  712  vim derived.cc 
+  713  g++ derived.cc 
+  714  clear
+  715  ./a.out 
+  716  vim derived.cc 
+  717  g++ derived.cc 
+  718  ./a.out 
+  719  clear
+  720  ls
+  721  vim virtualClass.cc
+  722  g++ virtualClass.cc 
+  723  vim virtualClass.cc
+  724  g++ virtualClass.cc 
+  725  clear
+  726  cp virtualClass.cc virtualClass2.cc 
+  727  vim virtualClass2.cc 
+  728  g++ virtualClass.cc 
+  729  g++ virtualClass2.cc 
+  730  ./a.out 
+  731  vim virtualClass.cc 
+  732  g++ virtualClass.cc 
+  733  vim virtualClass2.cc 
+  734  g++ virtualClass2.cc 
+  735  vim virtualClass2.cc 
+  736  g++ virtualClass2.cc 
+  737  ./a.out 
+  738  clear
+  739  vim whyUseVir.cc
+  740  g++ whyUseVir.cc 
+  741  vim whyUseVir.cc
+  742  g++ whyUseVir.cc 
+  743  ./a.out 
+  744  vim whyUseVir.cc
+  745  g++ whyUseVir.cc 
+  746  ./a.out 
+  747  vim whyUseVir.cc
+  748  g++ whyUseVir.cc 
+  749  ./a.out 
+  750  vim whyUseVir.cc
+  751  g++ whyUseVir.cc 
+  752  ./a.out 
+  753  vim whyUseVir.cc
+  754  g++ whyUseVir.cc 
+  755  vim whyUseVir.cc
+  756  g++ whyUseVir.cc 
+  757  clear
+  758  ./a.out 
+  759  vim whyUseVir.cc 
+  760  g++ whyUseVir.cc 
+  761  ./a.out 
+  762  vim whyUseVir.cc 
+  763  g++ whyUseVir.cc 
+  764  ./a.out 
+  765  ls
+  766  vim virtualClass.cc 
+  767  vim virtualClass3.cc
+  768  g++ virtualClass3.cc 
+  769  ./a.out 
+  770  vim virtualClass3.cc
+  771  cd teach/06082015/homework/
+  772  ls
+  773  vim virtual_this.cc
+  774  g++ virtual_this.cc 
+  775  vim virtual_this.cc
+  776  g++ virtual_this.cc 
+  777  ./a.out 
+  778  vim virtual_this.cc
+  779  g++ virtual_this.cc 
+  780  clear
+  781  ./a.out 
+  782  vim virtual_this.cc 
+  783  g++ virtual_this.cc 
+  784  ./a.out 
+  785  clear
+  786  ls
+  787  vim subClass.cc
+  788  g++ subClass.cc 
+  789  vim subClass.cc
+  790  g++ subClass.cc 
+  791  vim subClass.cc
+  792  g++ subClass.cc 
+  793  ./a.out 
+  794  vim subClass.cc
+  795  g++ subClass.cc 
+  796  ./a.out 
+  797  clear
+  798  ls
+  799  vim figure.cc
+  800  g++ figure.cc 
+  801  vim figure.cc
+  802  g++ figure.cc 
+  803  clear
+  804  ./a.out 
+  805  vim figure.cc
+  806  g++ figure.cc 
+  807  ./a.out 
+  808  vim figure.cc
+  809  g++ figure.cc 
+  810  vim figure.cc
+  811  g++ figure.cc 
+  812  ./a.out 
+  813  clear
+  814  ls
+  815  vim protectClass.cc
+  816  g++ protectClass.cc 
+  817  ./a.out 
+  818  vim whyUseVir.cc 
+  819  g++ whyUseVir.cc 
+  820  ./a.out 
+  821  clear
+  822  ls
+  823  vim ambigous.cc
+  824  g++ ambigous.cc 
+  825  vim ambigous.cc
+  826  g++ ambigous.cc 
+  827  vim ambigous.cc
+  828  g++ ambigous.cc 
+  829  vim ambigous.cc
+  830  g++ ambigous.cc 
+  831  clear
+  832  vim ambigous.cc 
+  833  g++ ambigous.cc 
+  834  vim ambigous.cc 
+  835  g++ ambigous.cc 
+  836  ./a.out 
+  837  vim ambigous.cc 
+  838  g++ ambigous.cc 
+  839  ./a.out 
+  840  clear
+  841  ls
+  842  vim virtualClass3.cc 
+  843  vim virtualClass2.cc 
+  844  g++ virtualClass2.cc 
+  845  ./a.out 
+  846  vim virtualClass2.cc 
+  847  ifconfig
+  848  cd teach/11082015/homework/
+  849  ls
+  850  vim function2.cc 
+  851  vim function.cc 
+  852  vim thread.cc
+  853  clear
+  854  cd ..
+  855  mkdir 120815
+  856  cd 120815/
+  857  vim task.h
+  858  vim task.cc
+  859  vim task.h
+  860  cd teach/11082015/
+  861  ls
+  862  cd producer_consumer/
+  863  ls
+  864  vim Thread.h
+  865  vim Noncopyable.h 
+  866  cd teach/11082015/based_obj/
+  867  ls
+  868  cd ..
+  869  ls
+  870  cd ~
+  871  cd practice/
+  872  ls
+  873  mkdir 110815thread
+  874  cd 110815thread/
+  875  clear
+  876  vim Thread.h
+  877  cd teach/11082015/
+  878  ls
+  879  cd based_obj/
+  880  ls
+  881  vim Thread.h
+  882  cd ..
+  883  vim Thread.h
+  884  vim Thread.cc 
+  885  vim test_Thread.cc 
+  886  cd based_obj/
+  887  ls
+  888  vim Thread.h
+  889  vim Thread.cc 
+  890  vim test_main.cc 
+  891  clear
+  892  ls
+  893  cd ..
+  894  ls
+  895  cd producer_consumer/
+  896  ls
+  897  vim Noncopyable.h 
+  898  vim Thread.h
+  899  vim Thread.cc
+  900  clear
+  901  ls
+  902  vim MutexLock.h
+  903  vim MutexLock.cc
+  904  vim Condition.h
+  905  vim Condition.cc
+  906  vim Buffer.h
+  907  cd teach/11082015/producer_consumer/
+  908  ls
+  909  vim Buffer.h
+  910  vim Buffer.cc 
+  911  vim ProducerThread.h
+  912  vim ProducerThread.cc
+  913  vim ConsumerThread.h
+  914  vim ConsumerThread.cc
+  915  vim test_product_consumer.cc 
+  916  clear
+  917  ls
+  918  vim MutexLock.h
+  919  vim MutexLock.cc
+  920  vim Condition.cc
+  921  vim MutexLock.cc
+  922  cd teach/
+  923  cd 120815/
+  924  ls
+  925  cd ..
+  926  cd 12082015/
+  927  ls
+  928  cd threadpool_oriented_obj/
+  929  ls
+  930  vim Thread.h 
+  931  vim Condition.h
+  932  vim MutexLock.h
+  933  vim Task.cc
+  934  clear
+  935  ls
+  936  vim Thread.cc 
+  937  cd ..
+  938  cd threadpool_based_obj/
+  939  ls
+  940  vim Thread.cc
+  941  vim Threadpool.
+  942  vim Threadpool.cc
+  943  vim Thread.cc
+  944  vim Buffer.cc
+  945  vim Threadpool.cc
+  946  vim test_threadpool.cc 
+  947  vim Thread.cc
+  948  clear
+  949  cd ..
+  950  mkdir 13082015
+  951  cd 13082015/
+  952  vim Timer.cc
+  953  ls
+  954  clear
+  955  cd ..
+  956  cd 12
+  957  cd 12082015/
+  958  ls
+  959  cd threadpool_oriented_obj/
+  960  ls
+  961  vim Task.h
+  962  vim Task.cc
+  963  vim Noncopyable.h 
+  964  vim MutexLock.h
+  965  vim MutexLock.cc
+  966  vim MutexLock.h
+  967  vim Condition.h
+  968  vim Condition.cc
+  969  ls
+  970  vim Buffer.h
+  971  vim Buffer.cc
+  972  vim Thread.h 
+  973  vim MyPoolThread.h
+  974  vim MyPoolThread.cc
+  975  vim Threadpool.h
+  976  cd teach/12082015/
+  977  cd threadpool_oriented_obj/
+  978  ls
+  979  vim Threadpool.cc
+  980  vim Buffer.h
+  981  vim Buffer.cc
+  982  vim Threadpool.cc
+  983  cd practice/110815thread/
+  984  ls
+  985  cd base_obj/
+  986  ls
+  987  cd ..
+  988  clear
+  989  ls
+  990  cd producer_consumer/
+  991  ls
+  992  clear
+  993  ls
+  994  vim Thread.h
+  995  vim Thread.cc
+  996  vim test_pc.cc 
+  997  vim Buffer.cc
+  998  vim ProducerThread.h
+  999  vim ProducerThread.cc
+ 1000  vim ConsumerThread.h
+ 1001  vim ConsumerThread.cc
+ 1002  vim test_pc.cc 
+ 1003  g++ *.cc -lpthread
+ 1004  vim Thread.h
+ 1005  g++ *.cc -lpthread -std=c++11
+ 1006  ./a.out 
+ 1007  clear
+ 1008  vim test_pc.cc 
+ 1009  vim ProducerThread.cc
+ 1010  vim ConsumerThread.cc
+ 1011  vim ConsumerThread.h
+ 1012  vim ProducerThread.h
+ 1013  vim Buffer.cc
+ 1014  ./a.out 
+ 1015  clear
+ 1016  cd ~
+ 1017  cd practice/120815/
+ 1018  ls
+ 1019  cd threadPool/
+ 1020  ls
+ 1021  vim MyPoolThread.cc
+ 1022  vim Threadpool.cc
+ 1023  vim Threadpool.h
+ 1024  vim Threadpool.cc
+ 1025  vim Buffer.cc
+ 1026  vim Buffer.h
+ 1027  vim testMain.cc 
+ 1028  vim Task.h
+ 1029  clear
+ 1030  ls
+ 1031  rm Task.h Task.cc
+ 1032  ls
+ 1033  vim MyPoolThread.h
+ 1034  vim MyPoolThread.cc
+ 1035  rm MyPoolThread.h MyPoolThread.cc
+ 1036  ls
+ 1037  vim Threadpool.h
+ 1038  vim Threadpool.cc
+ 1039  vim Thread.h 
+ 1040  vim Thread.cc
+ 1041  vim Buffer.h
+ 1042  vim Buffer.cc
+ 1043  vim testMain.cc 
+ 1044  vim Buffer.cc
+ 1045  vim Thread.cc
+ 1046  vim Thread.h 
+ 1047  vim Threadpool.h
+ 1048  vim Thread.cc
+ 1049  vim Thread.h
+ 1050  vim testMain.cc 
+ 1051  vim Threadpool.h
+ 1052  clear
+ 1053  g++ 8.cc -lpthread -std=c++11
+ 1054  g++ *.cc -lpthread -std=c++11
+ 1055  vim testMain.cc 
+ 1056  g++ *.cc -lpthread -std=c++11
+ 1057  vim Threadpool.cc
+ 1058  g++ *.cc -lpthread -std=c++11
+ 1059  vim Threadpool.cc
+ 1060  g++ *.cc -lpthread -std=c++11
+ 1061  clear
+ 1062  ./a.out 
+ 1063  cd ~
+ 1064  cd practice/
+ 1065  ls
+ 1066  mkdir 130815
+ 1067  cd 130815/
+ 1068  mkdir tcp
+ 1069  clear
+ 1070  vim InetAddress.h
+ 1071  vim InetAddress.cc
+ 1072  vim SocketIO.h
+ 1073  cd teach/11082015/
+ 1074  ls
+ 1075  cd based_obj/
+ 1076  ls
+ 1077  cd producer_consumer/
+ 1078  ls
+ 1079  clear
+ 1080  ls
+ 1081  vim Thread.h 
+ 1082  vim Thread.cc
+ 1083  vim Buffer.h
+ 1084  vim Buffer.cc
+ 1085  vim Condition.cc
+ 1086  vim Buffer.cc
+ 1087  vim Condition.cc
+ 1088  vim MutexLock.cc
+ 1089  vim Producer.h
+ 1090  vim Producer.cc
+ 1091  vim Producer.h
+ 1092  vim Producer.cc
+ 1093  vim Consumer.h
+ 1094  vim Consumer.cc
+ 1095  vim test_product_consumer.cc 
+ 1096  vim Thread.h
+ 1097  main
+ 1098  g++ *.cc -lpthread -std=c++11
+ 1099  ./a.out 
+ 1100  clear
+ 1101  vim test_product_consumer.cc 
+ 1102  vim Producer.cc
+ 1103  vim Consumer.cc
+ 1104  clear
+ 1105  ls
+ 1106  vim Buffer.cc
+ 1107  vim Noncopyable.h 
+ 1108  clear
+ 1109  cd ~
+ 1110  cd teach/
+ 1111  cd 12082015/
+ 1112  ls
+ 1113  cd threadpool_based_obj/
+ 1114  ls
+ 1115  clear
+ 1116  ls
+ 1117  vim Threadpool.h
+ 1118  vim Threadpool.cc
+ 1119  vim Thread.h
+ 1120  vim Thread.cc
+ 1121  vim Buffer.h
+ 1122  vim Buffer.cc
+ 1123  vim test_threadpool.cc 
+ 1124  vim Threadpool.cc
+ 1125  vim Threadpool.h
+ 1126  vim Threadpool.cc
+ 1127  vim test_threadpool.cc 
+ 1128  vim Threadpool.cc
+ 1129  clear
+ 1130  cd ~
+ 1131  cd teach/
+ 1132  ls
+ 1133  cd 13082015/
+ 1134  ls
+ 1135  cd tcp/
+ 1136  ls
+ 1137  cd ..
+ 1138  cd timer/
+ 1139  ls
+ 1140  cd ..
+ 1141  cd tcp/
+ 1142  ls
+ 1143  clear 
+ 1144  ls
+ 1145  vim InetAddress.h
+ 1146  vim InetAddress.cc
+ 1147  vim SocketIO.h
+ 1148  ifconfig
+ 1149  ping 192.168.3.60
+ 1150  cd linuxLearn/
+ 1151  ls
+ 1152  cd 180116/
+ 1153  vim file1
+ 1154  ls
+ 1155  mkdir linuxLearn
+ 1156  mkdir 180116
+ 1157  touch file1.txt
+ 1158  vim file1.txt 
+ 1159  cat file1.txt 
+ 1160  pwd
+ 1161  ls
+ 1162  mv file1.txt linuxLearn/
+ 1163  ls
+ 1164  cd linuxLearn/
+ 1165  ls
+ 1166  ls -l
+ 1167  cat file2.txt
+ 1168  touch file2.txt
+ 1169  pwd
+ 1170  ls -l
+ 1171  cd ..
+ 1172  ls
+ 1173  ls -l
+ 1174  cd ..
+ 1175  ls
+ 1176  ls -l
+ 1177  su
+ 1178  cat /etc/passwd
+ 1179  clear
+ 1180  cd linuxLearn/
+ 1181  ls
+ 1182  mkdir 180116
+ 1183  mv file* 180116/
+ 1184  ls
+ 1185  mv test* 180116/
+ 1186  mv hello 180116/
+ 1187  mv liyulong.txt 180116/
+ 1188  ls
+ 1189  mkdir 190116
+ 1190  cd 180116/
+ 1191  find -name hello
+ 1192  find -name test1.txt
+ 1193  find -name test2.txt
+ 1194  find ! -name test2.txt
+ 1195  cd -
+ 1196  cd ..
+ 1197  ls -a
+ 1198  vim .vimrc 
+ 1199  find -amin 2
+ 1200  find +amin 2
+ 1201  find -amin -2
+ 1202  find -amin +2
+ 1203  find -cmin +2
+ 1204  clear
+ 1205  ls
+ 1206  cd linuxLearn/
+ 1207  ls
+ 1208  ls -l | grep ^d
+ 1209  cd 180116/
+ 1210  ls
+ 1211  ls -l | grep e$
+ 1212  ls -l | grep t$
+ 1213  ls -c | grep t$
+ 1214  tar cvf source.tar *
+ 1215  la
+ 1216  ls
+ 1217  ls -l
+ 1218  tar xvf source.tar 
+ 1219  ls -l
+ 1220  tar czvf source.tar.gz *
+ 1221  ls -l
+ 1222  history
+ 1223  history >liyulong2.txt
+ 1224  clear
+ 1225  ls
+ 1226  ls -l
+ 1227  gzip -v file1*
+ 1228  ls -l
+ 1229  gzip -dv file1.gz 
+ 1230  ls -l
+ 1231  bzip -v file1
+ 1232  bzip2 -v file1
+ 1233  ls -l
+ 1234  history >liyulong3.txt
+ 1235  ls
+ 1236  vim liyulong.txt 
+ 1237  vim liyulong3.txt 
+ 1238  liyulong2.txt
+ 1239  vim liyulong2.txt 
+ 1240  vim liyulong.txt 
+ 1241  echo liyulong2.txt >>liyulong.txt 
+ 1242  echo liyulong3.txt >>liyulong.txt 
+ 1243  vim liyulong.txt 
+ 1244  echo <liyulong3.txt >>liyulong.txt 
+ 1245  vim liyulong.txt 
+ 1246  vim liyulong2.txt 
+ 1247  cat >>liyulong.txt<liyulong2.txt
+ 1248  vim liyulong.txt 
+ 1249  cat >>liyulong.txt<liyulong3.txt
+ 1250  vim liyulong.txt
+ 1251  histoty >liyulong_0119.txt
+ 1252  history >liyulong_0119.txt

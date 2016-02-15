@@ -1,0 +1,68 @@
+
+编辑器VIM 
+
+如何编译 gcc  调试 gdb ，编译工程 Makefile
+
+动态库  静态库
+
+FILE* Linux的文件操作 fd 文件描述符
+
+
+第二周 
+
+进程，状态，多进程
+
+进程间通信 
+
+第三周 
+
+线程，一个进程多个线程，多线程，同步与互斥 
+
+第四周
+
+网络编程 TCP、UDP通信  套接字 socket
+
+xmpp
+
+并发 select 
+-------------------
+Linux 没有新作业，白天做的事情，按照做一遍
+
+
+用户 权限
+
+root用户和普通用户
+
+按Tab进行命令联想
+
+/etc/passwd 系统用户在哪里
+
+如何改变用户显示色彩
+
+export PS1="\[\e[32;1m\][\u@\h \w\a]$>\[\e[0m\]"
+
+放在 /etc/profile中，要用root用户修改
+
+
+stdin2 stdout stderror
+
+linux wc
+
+mode 
+mode 
+mode 
+mode 
+
+grep
+
+sed
+
+awk
+
+find . -name "*.c"|xargs grep pthread_create
+
+修改颜色
+
+~/.bashrc
+
+export PS1="\[\e[32;1m\][\u@\h \w\a]$>\[\e[0m\]"

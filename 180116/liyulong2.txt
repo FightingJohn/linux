@@ -1,0 +1,38 @@
+ 1186  mv hello 180116/
+ 1187  mv liyulong.txt 180116/
+ 1188  ls
+ 1189  mkdir 190116
+ 1190  cd 180116/
+ 1191  find -name hello
+ 1192  find -name test1.txt
+ 1193  find -name test2.txt
+ 1194  find ! -name test2.txt
+ 1195  cd -
+ 1196  cd ..
+ 1197  ls -a
+ 1198  vim .vimrc 
+ 1199  find -amin 2
+ 1200  find +amin 2
+ 1201  find -amin -2
+ 1202  find -amin +2
+ 1203  find -cmin +2
+ 1204  clear
+ 1205  ls
+ 1206  cd linuxLearn/
+ 1207  ls
+ 1208  ls -l | grep ^d
+ 1209  cd 180116/
+ 1210  ls
+ 1211  ls -l | grep e$
+ 1212  ls -l | grep t$
+ 1213  ls -c | grep t$
+ 1214  tar cvf source.tar *
+ 1215  la
+ 1216  ls
+ 1217  ls -l
+ 1218  tar xvf source.tar 
+ 1219  ls -l
+ 1220  tar czvf source.tar.gz *
+ 1221  ls -l
+ 1222  history
+ 1223  history >liyulong2.txt
