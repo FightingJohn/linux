@@ -1,0 +1,7 @@
+#ifndef _FUNC_H_
+#define _FUNC_H_
+#define HELLO_WORLD_SERVER_PORT    6000
+#define LENGTH_OF_LISTEN_QUEUE 20
+#define BUFFER_SIZE 1024
+#define FILE_NAME_MAX_SIZE 512
+#endif
